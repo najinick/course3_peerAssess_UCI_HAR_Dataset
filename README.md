@@ -5,9 +5,9 @@ And produces a tidy data set in a csv file that shows reading for one subject pe
 In addition to the subject and the activity, each reading row has 66 different averages of readings for that subject while performing the activity
 
 ### Project content
-README.md file describing the project
-CodeBook.md file describing the data set
-run_analysis.R file an R script file to generate the tidy data
+README.md file describing the project  
+CodeBook.md file describing the data set  
+run_analysis.R file an R script file to generate the tidy data  
 
 
 ### Setup and running the script
