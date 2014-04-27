@@ -10,10 +10,10 @@ The first variable identifies the subject of the experiment
 The second variable is for the activity performed by the subject
 The rest are 66 columns of various readings for that subject while performing that activity.
 
-Activity
-Subject
-tBodyAcc-mean()-X
-tBodyAcc-mean()-Y
+Activity  
+Subject  
+tBodyAcc-mean()-X  
+tBodyAcc-mean()-Y  
 tBodyAcc-mean()-Z
 tBodyAcc-std()-X
 tBodyAcc-std()-Y
